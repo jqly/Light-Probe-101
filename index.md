@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+$$L_o(\mathbf{x}, \omega_o) = \int_{\omega} L_i f(\mathbf{x}, \omega_i, \omega_o) (N,\omega_i)\mathrm{d}\omega$$
+
 You can use the [editor on GitHub](https://github.com/jqly/Light-Probe-101/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
